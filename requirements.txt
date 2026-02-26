@@ -7,3 +7,4 @@ pyrogram
 xmltodict 
 requests 
 pycryptodomex
+m3u8
