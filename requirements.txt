@@ -1,3 +1,4 @@
+python-3.11.10
 aiofiles
 aiohttp
 yt-dlp
