@@ -633,9 +633,9 @@ async def help_button(client, callback_query):
         f"➥ /resat – Resat Bot\n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"  
         f"╭────────⊰◆⊱────────╮\n"   
-        f" ➠ 𝐌𝐚𝐝𝐞 𝐁𝐲 : {} 💻\n"
+        f" ➠ 𝐌𝐚𝐝𝐞 𝐁𝐲 : {CREDIT} 💻\n"
         f"╰────────⊰◆⊱────────╯\n"
-  )
+)
     
   await callback_query.message.edit_media(
     InputMediaPhoto(
