@@ -606,7 +606,7 @@ async def help_button(client, callback_query):
         f"• Send any link for auto-extraction\n"  
         f"• Supports batch processing\n\n"  
         f"╭────────⊰◆⊱────────╮\n"   
-        f" ➠ 𝐌𝐚𝐝𝐞 𝐁𝐲 : {KS😎} 💻\n"
+        f" ➠ 𝐌𝐚𝐝𝐞 𝐁𝐲 : {KS} 💻\n"
         f"╰────────⊰◆⊱────────╯\n"
   )
     
