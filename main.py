@@ -606,7 +606,7 @@ async def help_button(client, callback_query):
         f"• Send any link for auto-extraction\n"  
         f"• Supports batch processing\n\n"  
         f"╭────────⊰◆⊱────────╮\n"   
-        f" ➠ 𝐌𝐚𝐝𝐞 𝐁𝐲 : {CREDIT} 💻\n"
+        f" ➠ 𝐌𝐚𝐝𝐞 𝐁𝐲 : {KS😎} 💻\n"
         f"╰────────⊰◆⊱────────╯\n"
   )
     
@@ -633,7 +633,7 @@ async def help_button(client, callback_query):
         f"➥ /resat – Resat Bot\n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"  
         f"╭────────⊰◆⊱────────╮\n"   
-        f" ➠ 𝐌𝐚𝐝𝐞 𝐁𝐲 : {CREDIT} 💻\n"
+        f" ➠ 𝐌𝐚𝐝𝐞 𝐁𝐲 : {} 💻\n"
         f"╰────────⊰◆⊱────────╯\n"
   )
     
@@ -667,7 +667,7 @@ async def upgrade_button(client, callback_query):
            f"• 🎓 Utkarsh Protection(Video + PDF)\n"
            f"• 🎓 All Non DRM+AES Encrypted URLs\n"
            f"• 🎓 MPD URLs if the key is known (e.g., Mpd_url?key=key XX:XX)</blockquote>\n\n"
-           f"<b>💵 Monthly Plan: free</b>\n\n"
+           f"<b>💵 Monthly Plan: 1500</b>\n\n"
            f"If you want to buy membership of the bot, feel free to contact the Bot Admin.\n"
     )  
     
