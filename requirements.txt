@@ -9,3 +9,4 @@ requests
 pycryptodomex
 m3u8
 pytz
+cloudscraper
